@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fatedier/frp</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rathole-org/rathole</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.</div>
@@ -478,7 +478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2025, 12:42:34  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Aug 2025, 01:59:22  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
