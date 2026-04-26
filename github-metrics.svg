@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>librekeys/picoforge</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A commissioning tool for pico-fido firmware based hardware keys.</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidphilipbarr/Sweep</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sweep - a small promicro based keyboard inspired by the Ferris.</div>
@@ -422,7 +422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bozgi/patine</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implementation of the SMTP stack</div>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2026, 02:47:56  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2026, 13:08:44  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
