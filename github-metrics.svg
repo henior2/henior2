@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FiloSottile/age</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>librekeys/picoforge</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A commissioning tool for pico-fido firmware based hardware keys.</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>davidphilipbarr/Sweep</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sweep - a small promicro based keyboard inspired by the Ferris.</div>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2026, 03:22:44  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 May 2026, 14:28:43  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
