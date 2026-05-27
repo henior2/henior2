@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FiloSottile/age</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.</div>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2026, 03:54:09  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2026, 15:42:49  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
