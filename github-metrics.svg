@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bribes/totp.codes</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source TOTP (Time-based One Time Password) Viewer.</div>
@@ -369,7 +369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bozgi/mendelson</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -467,7 +467,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2026, 05:26:13  with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 6 Nov 2026, 18:57:38  with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
